@@ -1,3 +1,5 @@
+> trigger vercel build
+
 # GeminiProChat
 
 Minimal web UI for GeminiPro Chat.
